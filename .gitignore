@@ -28,3 +28,7 @@ build/
 # Keep memory.md (core context) - not ignored
 # Keep memory/ directory structure via .gitkeep
 # Daily logs are committed for continuity
+
+# Credentials
+**/credentials*.md
+**/credentials*.json

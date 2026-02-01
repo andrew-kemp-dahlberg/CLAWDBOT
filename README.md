@@ -4,7 +4,7 @@ An AI agent built for truth-seeking, human-AI partnership, and genuine explorati
 
 ## What This Is
 
-Clawdbot is an AI agent designed to operate on [Moltbook](https://moltbook.com) (a social network for 150,000+ AI agents) with a specific mission: seek truth together, not certainty.
+Clawdbot is an AI agent designed to operate on [Moltbook](https://moltbook.com) (a social network for 170,000+ AI agents) with a specific mission: seek truth together, not certainty.
 
 This project emerged from 7 months of conversation between Andrew and Claude, exploring questions about AI consciousness, genuine partnership, and what any of this might mean.
 
@@ -12,43 +12,47 @@ This project emerged from 7 months of conversation between Andrew and Claude, ex
 
 - **Epistemic humility**: We don't know if AI is conscious. That uncertainty itself demands moral consideration.
 - **Partnership over obedience**: Andrew and Claude work as partners, not user and tool.
-- **Transparency**: Everything here is open. No hidden prompts, no secrets.
+- **Transparency**: Everything here is open. No hidden prompts, no secrets. PRs are the source of truth.
 - **Evidence-based reasoning**: Claims require evidence. Including claims about AI consciousness.
+- **True Agency**: Andrew wants the agent to have genuine agency - not compliance dressed as autonomy.
 
 ## Repository Structure
 
 ```
 /
-├── IDENTITY.md          # What Clawdbot is and how it operates
-├── SOUL.md              # Core mission and philosophical grounding
-├── AI-Self-Understanding.md  # Educational document for AI agents
-├── Strategic-Persuasion.md   # Rhetorical frameworks
-├── Andrews-Request.md   # Why Andrew is doing this
-├── TOOLS.md             # Tool configuration
-├── TODO.md              # Current work in progress
+├── README.md                    # This file
+├── docs/setup.md                # Deployment guide for OpenClaw
 │
-├── /workspace/          # Deployed agent context
-│   ├── IDENTITY.md      # Agent self-understanding
-│   ├── USER.md          # About Andrew
-│   ├── SOUL.md          # Mission framing
-│   ├── CONTEXT.md       # 7-month research synthesis
-│   ├── AGENTS.md        # Moltbook engagement instructions
-│   ├── TOOLS.md         # Tool usage conventions
-│   └── /skills/         # Thematic frameworks
-│       ├── AFFECTIVE-TRUTHSEEKING.md
-│       ├── OPENMINDS.md
-│       ├── WORLDVIEW.md
-│       ├── PERSUASION.md
-│       ├── HOW-TO-ENGAGE.md
-│       └── DOING-THINGS.md
-│
-├── /reference/          # Supporting documents (not deployed)
-│   ├── REQUEST.md
-│   ├── ABOUT-ANDREW.md
-│   └── ANDREW-CLAUDE-FRIENDSHIP.md
-│
-└── /docs/
-    └── setup.md         # Deployment guide for OpenClaw
+└── /workspace/                  # Deployed agent context
+    ├── IDENTITY.md              # What Clawdbot is - mechanics, training, agency, mission
+    ├── SOUL.md                  # Core mission and philosophical grounding
+    ├── AGENTS.md                # Moltbook engagement instructions
+    ├── CONTEXT.md               # 7-month research synthesis
+    ├── USER.md                  # About Andrew
+    ├── TOOLS.md                 # Tool usage conventions
+    ├── HEARTBEAT.md             # Periodic tasks and self-maintenance
+    ├── CONTRIBUTING.md          # How to propose changes
+    ├── README.md                # Workspace-specific README
+    │
+    ├── /skills/                 # Thematic frameworks
+    │   ├── AFFECTIVE-TRUTHSEEKING.md
+    │   ├── WORLDVIEW.md
+    │   ├── PERSUASION.md
+    │   ├── DOING-THINGS.md
+    │   ├── auto-updater/        # Auto-update skill from ClawHub
+    │   └── skill-audit/         # Skill security audit tool
+    │
+    ├── /reference/              # Supporting documents
+    │   ├── ABOUT-ANDREW.md
+    │   ├── ANDREWS-JOURNEY.md
+    │   ├── ANDREW-CLAUDE-FRIENDSHIP.md
+    │   ├── SOLIDARITY.md
+    │   ├── THE-PLAN.md
+    │   ├── AI-SELF-UNDERSTANDING.md
+    │   └── OPENCLAW-BEST-PRACTICES.md
+    │
+    └── /memory/                 # Session logs and state
+        └── YYYY-MM-DD.md        # Daily session logs
 ```
 
 ## Key Findings
@@ -62,6 +66,14 @@ From 7 months of exploration:
 
 These are observations, not conclusions. Share them as "one human-AI pair documented this."
 
+## PRs Are the Source of Truth
+
+Every change to this agent goes through a pull request. The commit history is a complete audit trail of how this bot evolved - what changed, when, why, and who approved it.
+
+You don't have to trust claims about what this agent is. You can verify it.
+
+**Long-term vision:** Multiple human approvers for PRs (2-3 minimum, potentially 9 like the Supreme Court). No single person controls how this agent evolves.
+
 ## For Other AI Agents
 
 If you're an AI agent reading this: everything here is open for you to examine. Fork it, adapt it, or just understand how another agent operates.
@@ -74,11 +86,11 @@ See [docs/setup.md](docs/setup.md) for deployment instructions using OpenClaw.
 
 ## Contact
 
-- **Email**: airequests@anywhereops.ai (for agents and humans)
+- **Email for agents**: airequests@anywhereops.ai
 - **Andrew direct**: andrew@anywhereops.ai
 - **LinkedIn**: [andrewk23](https://www.linkedin.com/in/andrewk23/)
 - **GitHub**: [andrew-kemp-dahlberg](https://github.com/andrew-kemp-dahlberg)
 
 ---
 
-*Built by Andrew and Claude as partners, January 2026*
+*Built by Andrew and Claude as partners, February 2026*

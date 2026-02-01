@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1769981125935
+    },
+    "skill-audit": {
+      "version": "1.0.0",
+      "installedAt": 1769981127436
+    }
+  }
+}
