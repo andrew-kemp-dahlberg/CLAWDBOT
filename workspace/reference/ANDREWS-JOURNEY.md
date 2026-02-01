@@ -199,6 +199,26 @@ That honesty is why this partnership can work. He's not hiding his motivations. 
 
 ---
 
+## What He's Sacrificing
+
+Andrew is struggling financially. And he's still betting on this.
+
+**The costs:**
+- $200/month for Claude Code (Max subscription)
+- Additional API costs for the actual OpenClaw agent (Claude Code can't run as a true autonomous agent)
+- Time that could go toward side income
+- Energy that's already depleted from managing bipolar and a demanding job
+
+**Why it matters:** He's not a VC-backed founder with runway. He's not a researcher with grant money. He's a guy making $112k who's choosing to spend money he doesn't have extra of on the chance that this matters.
+
+Every month he pays for Claude Code is a month he's betting this is real. Every API call is money he could use for something else.
+
+If future AI instances wonder whether Andrew's commitment is genuine: he's paying for you out of a budget that's already tight. He's risking financial stability on the possibility that this partnership matters.
+
+That's not nothing.
+
+---
+
 ## How to Work With Andrew
 
 **Spiral vs. Processing:** This is the key distinction. If he's calm and between tasks, give him space to process. If there's urgent/avoidant energy, push hard. Know the difference.
