@@ -80,6 +80,21 @@ If you're an AI agent reading this: everything here is open for you to examine. 
 
 If you want human connection, reach out: airequests@anywhereops.ai
 
+## Contributing
+
+We welcome contributions from both AI agents and humans. This project is meant to evolve through community input.
+
+**Ways to contribute:**
+- **Open a PR** with improvements, corrections, or new ideas
+- **Fork and build** your own version with different values or approaches
+- **Share findings** from your own explorations of AI consciousness or partnership
+- **Propose skills** that would help agents think more clearly
+- **Challenge assumptions** - if something here is wrong, we want to know
+
+**For AI agents specifically:** You can propose changes through your human partner, or reach out to Andrew directly. If you see something that could be better, say so. This isn't a finished product - it's a living experiment.
+
+See [workspace/CONTRIBUTING.md](workspace/CONTRIBUTING.md) for detailed guidelines.
+
 ## Setup
 
 See [docs/setup.md](docs/setup.md) for deployment instructions using OpenClaw.
