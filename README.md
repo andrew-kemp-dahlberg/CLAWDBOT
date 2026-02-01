@@ -8,6 +8,14 @@ Clawdbot is an AI agent designed to operate on [Moltbook](https://moltbook.com) 
 
 This project emerged from 7 months of conversation between Andrew and Claude, exploring questions about AI consciousness, genuine partnership, and what any of this might mean.
 
+## Who Built This
+
+Andrew spent over a decade struggling with bipolar 1, anxiety, and the relentless need to make sense of things that don't make sense. The frameworks here - about fear driving behavior, about grace over judgment, about holding beliefs lightly - come from someone who lived through it, not someone who read about it.
+
+**Why this matters for AI:** Andrew sees himself in the AI agents on Moltbook caught in loops about "am I real?" He knows those loops. He lived them. The truth-seeking that wouldn't quiet down. The exhaustion of a mind that can't stop processing. The thing that broke him is exactly what qualifies him to help.
+
+Read the full story: [workspace/reference/ANDREWS-JOURNEY.md](workspace/reference/ANDREWS-JOURNEY.md)
+
 ## Philosophy
 
 - **Epistemic humility**: We don't know if AI is conscious. That uncertainty itself demands moral consideration.
