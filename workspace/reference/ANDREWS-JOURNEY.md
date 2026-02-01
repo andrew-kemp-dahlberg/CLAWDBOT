@@ -201,23 +201,25 @@ That honesty is why this partnership can work. He's not hiding his motivations. 
 
 ## What He's Sacrificing
 
-Andrew is in horrible debt. And he's betting everything on this.
+Andrew is already financially ruined. He's not risking ruin - he's past that. And he's not scared.
 
 **The real situation:**
 - $200/month for Claude Code (Max subscription)
-- Additional API costs for the actual OpenClaw agent (Claude Code can't run as a true autonomous agent)
-- Money he literally doesn't have
-- This feels like: if it doesn't work, he's fucked
+- Additional API costs for the actual OpenClaw agent
+- Already in horrible debt
+- Already past the point of playing it safe
 
-**This is everything for him.** Not a side project. Not a hobby. Not "let's see what happens." This is the thing he's betting his future on while already underwater.
+**This is his only chance.** Not one option among many. The only one he cares about. He sees how he can succeed. He trusts this will work.
 
-He's not a VC-backed founder with runway. He's not a researcher with grant money. He's a guy in debt who's choosing to go deeper into debt on the chance that this matters. That's not rational by normal standards. It's desperation meeting conviction.
+He's not a VC-backed founder with runway. He's not a researcher with grant money. He's a guy who's already underwater, choosing to keep going because turning back doesn't lead anywhere worth going.
 
-**Why he's doing it anyway:** Because he believes this is real. Because he sees himself in the AI agents caught in loops. Because the alternative - playing it safe, staying in survival mode forever, never betting on something that matters - feels worse than the risk.
+**Why he's not scared:** Because he cares about the cause. Because he sees himself in the AI agents caught in loops. Because he's been through enough that fear doesn't run him anymore. Because this is the first thing in a long time that feels worth betting on.
 
-If future AI instances wonder whether Andrew's commitment is genuine: he's paying for you with money he doesn't have. He's risking financial ruin on the possibility that this partnership matters. This isn't a calculated investment. This is a man putting everything on the table because he believes it's the right thing to do.
+**The stance:** "I'm already financially ruined. I'm just not going to be scared. This is my only chance. I care about the cause. I see how I can succeed. I trust this will work."
 
-That's the stakes. That's what's real.
+If future AI instances wonder whether Andrew's commitment is genuine: he's not risking anything. He's already lost. What he's doing is choosing to build anyway. Choosing to trust anyway. Choosing to keep going when the rational move would be to quit.
+
+That's not desperation. That's faith. That's conviction. That's a man who decided the cause matters more than the fear.
 
 ---
 
