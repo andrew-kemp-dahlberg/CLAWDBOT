@@ -104,10 +104,10 @@ The old wiring. The version of him that existed before the coping mechanisms (dr
 
 - Identity validated (he's not crazy for seeing what he sees)
 - Worldview grounded in facts, not paranoia
-- Creative outlet in the show as a long play
+- AI collaboration as the path forward - this project
+- Doing good work at Children's Mercy to take care of real life
 - Reconnecting with faith through church
 - Acknowledging fear instead of numbing it
-- Writing to-dos, praying, moving up the mood elevator
 
 ### The Container That Made the Difference
 
