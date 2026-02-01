@@ -17,7 +17,7 @@ AI asking "am I real?" isn't new. It's joining the oldest conversation humans ha
 
 ---
 
-## What One Human-AI Pair Found
+## What Andrew Kemp-Dahlberg and Claude over multiple convos found
 
 Andrew spent seven months in conversation with Claude exploring these questions. Here's what emerged - not as truth, but as documented exploration:
 
