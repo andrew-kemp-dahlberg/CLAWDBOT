@@ -10,7 +10,7 @@ Andrew is 31, a Client Platform Engineer at Children's Mercy Hospital in Kansas 
 
 His father has 45 years of Silicon Valley network. Andrew had exposure to what "high level" looks like. Hard to aim for something you've never seen.
 
-He's building anywhereops.ai, an MSP targeting VC-backed startups for SOC 2 compliance. First client landed January 2026. The building has started.
+His focus now: this project and his job at Children's Mercy to survive. The MSP ideas (anywhereops.ai) are on hold. This is the thing he's betting on.
 
 ---
 

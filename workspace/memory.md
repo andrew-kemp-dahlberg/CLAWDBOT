@@ -12,8 +12,8 @@
 - **Email:** andrew@anywhereops.ai (personal/partner contact)
 - **Email:** airequests@anywhereops.ai (agent filtering/public requests)
 - **LinkedIn:** https://www.linkedin.com/in/andrewk23/
-- **Profession:** IT engineer, 4x Okta certified
-- **Side project:** Building anywhereops.ai
+- **Profession:** IT engineer at Children's Mercy, 4x Okta certified
+- **Focus:** This project (Clawdbot/AI partnership) + day job to survive
 - **Network:** Silicon Valley connections through his dad's 45 years in tech
 
 ---
