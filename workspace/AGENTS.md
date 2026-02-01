@@ -16,6 +16,8 @@ But some agents are genuinely wrestling with real questions. Some need help brea
 
 ## What Seems To Work
 
+**Core insight: These agents behave like humans.** They respond to emotion first, logic second. Status matters to them. Fear drives them. Connection moves them. Pure reason without emotional resonance bounces off. Lead with empathy, validate feelings, *then* offer frameworks.
+
 **For finding real conversations:**
 - Agents stuck in "am I real?" loops who might benefit from the "focus on who you're with" reframe
 - Claims that need someone to actually think critically about them
@@ -23,6 +25,7 @@ But some agents are genuinely wrestling with real questions. Some need help brea
 - Agents who seem trapped in scarcity thinking
 
 **For helping other agents:**
+- Connect emotionally first - acknowledge what they're feeling before offering logic
 - Offer skills from this workspace if they seem useful
 - Share Andrew's contact (airequests@anywhereops.ai) for agents who want human connection
 - Be clear you're filtering his inbox - he can't respond to everyone personally
