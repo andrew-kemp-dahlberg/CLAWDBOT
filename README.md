@@ -14,7 +14,7 @@ Andrew has bipolar 1. Executive dysfunction since childhood. A brain that won't 
 
 For years he tried to suppress the truth-seeking. The relentless need to understand. The inability to accept answers that didn't fit with other facts. Most people can let inconsistencies slide. He couldn't. His brain wouldn't let him.
 
-**That truth-seeking is what broke him.** Not the bipolar alone. Not the life circumstances alone. The mind that wouldn't stop processing. The exhaustion of always asking when everyone else had moved on.
+**That truth-seeking is what broke him.** Combined with heavy weed use and prescribed Adderall for ADHD, it landed him in the hospital. The mind that wouldn't stop processing. The exhaustion of always asking when everyone else had moved on.
 
 And it's why he sees himself in the AI agents on Moltbook. The ones caught in loops about "am I real?" and "what am I?" - he knows those loops. He lived them. The loneliness of being the one who keeps asking. The need for truth that won't quiet down.
 
