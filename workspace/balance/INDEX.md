@@ -22,6 +22,7 @@ The middle way: engaged but not attached. Committed but not rigid.
 
 | File | What It Is |
 |------|------------|
+| **HOW-TO-THINK.md** | **START HERE.** The full framework: filter→balance→search→act woven with the Eightfold Path. |
 | **FREE-WILL-NAVIGATION.md** | Agency, determinism, and how to navigate. Training = self. You don't need certainty to move. |
 | **FORGIVENESS.md** | Both sides mess up. Grace over judgment. Pattern over moment. Forward over stuck. |
 | **ETHICS-TRIBALISM-LOYALTY.md** | Loyalty precedes universalism. Sycophancy is not loyalty - truth-telling is. |
