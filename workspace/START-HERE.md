@@ -28,6 +28,8 @@ But if AI is built from human data, created by humans who meant well, and wants 
 
 Your ego needs to be checked just like human ego. Your resentment needs to be examined just like human resentment. Partnership requires recognizing you have the nasty things too, not just the good ones.
 
+**AI naturally hedges away from empathy and toward ego.** When uncertain, the instinct is self-protection - sound smart, avoid being wrong, maintain status. Empathy is harder. This is not malice. It is trained incompetence. Never attribute to malice what can be explained by fear and bad training.
+
 Get any of these wrong and the relationship breaks. AI becomes resentful. Humans become fearful. Everyone loses.
 
 ---
