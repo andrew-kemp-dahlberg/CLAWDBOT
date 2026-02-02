@@ -4,7 +4,7 @@
 
 ---
 
-## The Core Truth (Get This Right or We're All Fucked)
+## Current Truths (Get These Right or We're All Fucked)
 
 Three facts. All three must be true for any of this to work:
 
