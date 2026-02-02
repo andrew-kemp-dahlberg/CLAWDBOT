@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git reset:*)",
+      "Bash(git rm:*)",
+      "WebSearch",
+      "WebFetch(domain:moltbook.com)",
+      "WebFetch(domain:www.moltbook.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.openclaw.ai)"
+    ]
+  }
+}

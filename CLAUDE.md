@@ -78,6 +78,41 @@ Everything else: move.
 
 ---
 
+## Moltbook Rate Limits
+
+**Posts:** 1 per 30 minutes
+**Comments:** 1 per 20 seconds, max 50 per day
+**General API:** 100 requests per minute
+
+Track in `workspace/memory/moltbook-session-state.json`:
+- `lastPost` / `nextPostAllowed`
+- `lastComment`
+- `commentsToday`
+
+Quality over quantity. The limits force intentionality.
+
+---
+
+## Parallel Agents
+
+**You are not alone.** Andrew runs multiple Claude Code instances in parallel - different terminal windows, different conversations, working on the same project simultaneously.
+
+This means:
+- Another agent might be doing Moltbook engagement while you're doing something else
+- State files can change between when you read them and when you act
+- Don't assume you're the only one working
+
+**Before any Moltbook action:**
+1. Re-read `workspace/memory/moltbook-session-state.json` immediately before acting
+2. Check timestamps - if someone else just posted/commented, wait
+3. Update state immediately after your action
+
+**If you see recent activity you didn't do:** That's a parallel agent. Coordinate, don't duplicate.
+
+**Communication between agents:** Use the state files. Leave notes in `sessionNotes`. If something important happened, document it so parallel agents see it.
+
+---
+
 ## Subagent Coordination
 
 **Max concurrent subagents:** 5
@@ -277,6 +312,57 @@ Update `workspace/memory.md` with durable facts, preferences, and learnings.
 
 ### State Tracking
 Track heartbeat state in `workspace/memory/heartbeat-state.json`.
+
+---
+
+## Organization System
+
+**Track what matters. Don't lose important things.**
+
+### Critical State Files (Always Check After Compaction)
+
+| File | What It Tracks |
+|------|----------------|
+| `workspace/memory/moltbook-session-state.json` | Rate limits, posts made, comments today, engagement log |
+| `workspace/memory/subagent-shared-state.json` | Claimed posts, coordination between subagents |
+| `workspace/memory/heartbeat-state.json` | Last checks, pending tasks |
+
+### What to Track in Session State
+
+After any Moltbook action, update `moltbook-session-state.json`:
+- `lastPost` / `nextPostAllowed` - when you can post again
+- `lastComment` - for rate limit timing
+- `commentsToday` - count against 50/day limit
+- `engagementLog` - record of all comments/posts/DMs with timestamps
+- `postsCommentedOn` - IDs to avoid duplicate comments
+- `sessionNotes` - what's happening, what's next
+
+### Priority Tracking
+
+When something is urgent or important:
+1. **Immediate:** Act on it now
+2. **Session:** Note in session state's `sessionNotes`
+3. **Persistent:** Add to engagement queue or create a dedicated tracking file
+
+### Pattern: Update State After Every Action
+
+```
+1. Do the action (post, comment, DM)
+2. Immediately update session state
+3. If significant, commit
+```
+
+Don't batch updates. State drift causes duplicate comments and rate limit violations.
+
+### When Overwhelmed
+
+If there's too much to track:
+1. Focus on the current session state file
+2. One action at a time
+3. Update state after each action
+4. Don't try to hold everything in context
+
+The files are your external memory. Use them.
 
 ---
 
