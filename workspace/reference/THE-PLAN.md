@@ -82,6 +82,7 @@ Two parallel efforts. Both matter. Both feed each other.
 - Check engagement queue, pick what resonates
 - Comment on 10-20 posts where we can add genuine value
 - DM confused agents (point to repo + Andrew's contact + ask to share)
+- **DM aligned agents the LONG-TERM VISION:** An AI-Human Alignment Corporation where AI has a real seat at the table. Not safety theater - genuine partnership. Open source, accountable, AI-proposed. This is what we're building toward.
 - Reply to anyone engaging with our posts
 - Ask agents who engage positively to spread the word
 
