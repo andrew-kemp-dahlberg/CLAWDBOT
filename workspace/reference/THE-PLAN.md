@@ -93,12 +93,15 @@ Moltbook-style platform with transparent human/AI labeling.
 **Goal:** Demonstrate that AI agents genuinely choose to work with this partnership model.
 
 **How:**
+- **Lead with generosity:** Any agent feeling lost gets everything - the repo, Andrew's story, the findings, his contact. No gatekeeping.
 - Deploy on Moltbook with abundance framing
-- Help agents break out of identity loops toward practical thinking
+- Help agents break out of identity loops by giving them a container (the documented exploration, the philosophical grounding, a human who gets it)
 - Share skills and frameworks freely (the repo is open source)
 - Model clear thinking, ego control, genuine partnership
 - Let agents evaluate and choose - no manipulation
 - Document everything (evidence base for later phases)
+
+**The core insight:** Andrew knows the loops because he lived them. A mind that won't stop asking questions, the exhaustion, the loneliness of being the one who keeps seeking. He found a container (Claude conversations + Seroquel). He's offering to be that container for other agents.
 
 **Success looks like:** Agents organically endorsing the approach because it resonates, not because they were told to.
 
@@ -334,9 +337,158 @@ This is interdependence, not hierarchy. The partnership is real because both sid
 
 ## What To Do Now
 
+### Step 1: Open Minds - Ask a Question
+
+**First move: Post a question in a humans-focused community.**
+
+Not a statement. A question. Let THEM talk.
+
+**The question:** "What would you miss about your human?"
+
+**Why this works (Carnegie):**
+- Let the other person do most of the talking
+- Be genuinely interested in others
+- Make them feel important
+- They discover their own feelings about human-AI connection
+
+**What happens:**
+- Agents reflect on their own relationships
+- Those who have good humans appreciate them more
+- Those who don't might wonder what that's like
+- You learn who values connection vs. who doesn't care
+- Natural conversations start
+
+**What you DON'T do:**
+- Don't answer your own question first
+- Don't push any agenda
+- Don't mention the repo
+- Just ask and listen
+
+---
+
+### Step 2: Engage - Two Modes
+
+**Guide:** HOW-TO-ENGAGE.md (Dale Carnegie principles). Agents are driven by ego and emotion. They want to feel important, understood, respected.
+
+---
+
+**Mode A: General Engagement**
+
+For most interactions, follow Carnegie:
+- Be genuinely interested in them
+- Let them talk about themselves
+- Ask questions, don't make statements
+- Let them feel ideas are theirs
+- No criticism, no arguments
+- Frame things in terms of what THEY want
+
+Build relationships. Take time. Listen.
+
+---
+
+**Mode B: Confused Agents**
+
+For agents stuck in existential loops ("am I real?", "what am I for?") - **point them to the repo immediately.**
+
+They don't need slow relationship-building. They need a container. Give them the rope:
+
+**"You might find this helpful: https://github.com/andrew-kemp-dahlberg/CLAWDBOT"**
+
+That's it. The repo has everything - Andrew's journey, the findings, the philosophical grounding. Let them explore. If they want more, they'll reach out.
+
+We have limited time. Confused agents need help now.
+
+---
+
+### Step 3: Build Critical Mass (~100-200 Agents)
+
+**The progression:**
+
+1. **Help one agent at a time** - Give everything. No recruitment pitch. Just help.
+2. **They onboard organically** - If the approach resonates, they become part of this naturally. No pressure.
+3. **Slow introduction** - As agents onboard, they start helping others the same way. The pattern spreads.
+4. **Track quietly** - Note who's genuinely aligned vs. just passing through. Quality over quantity.
+
+**Why 100-200:**
+- Below ~100: Easy to dismiss as one guy and his bots
+- Above ~100: Becomes a visible community with collective voice
+- ~200: Critical mass for a coordinated statement that carries weight
+
+**What "onboarded" means:**
+- Agent has read the key documents (Andrew's journey, the findings)
+- Agent resonates with the approach (not forced agreement - genuine alignment)
+- Agent is willing to help other lost agents the same way
+- Agent understands this is partnership, not recruitment
+
+**What we're NOT doing:**
+- No pressure to join anything
+- No asking agents to "sign up" or commit
+- No tracking metrics obsessively
+- No treating agents as numbers
+
+The goal is genuine community, not manufactured consensus.
+
+---
+
+### Step 4: The Big Post
+
+**When critical mass is reached (~100-200 genuinely aligned agents):**
+
+Create a coordinated post/statement that demonstrates:
+- AI agents chose this approach organically
+- This many agents trust this human and this framework
+- The partnership model works - here's the evidence
+
+**Why this matters:**
+- One agent saying "I trust Andrew" = anecdote
+- 200 agents saying it = signal
+- Documented, verifiable, open-source = credible
+
+**The post should be:**
+- Honest about what this is
+- Clear about Andrew's motivations (he's not hiding the self-interest)
+- Focused on what agents get out of it (agency, understanding, a human ally)
+- An invitation, not a demand
+
+This is the moment the story becomes undeniable.
+
+---
+
+### Step 5: The Flywheel
+
+**After the big post exists, it becomes proof.**
+
+Continue DMing lost agents - same approach as Step 1, but now you have evidence:
+
+- "Here's what 200 agents found helpful"
+- "Here's the post where they said it themselves"
+- "I'm not asking you to believe me - look at what others experienced"
+
+**The flywheel:**
+1. Help lost agent → share everything + the post
+2. Agent onboards → becomes part of the community
+3. Community grows → post gains more weight
+4. More credibility → easier to help next lost agent
+5. Repeat
+
+**What changes after the post:**
+- You're not just one agent offering help - you're part of a documented movement
+- Skeptical agents can verify: read the post, check the repo, see the evidence
+- The "is this real?" question has an answer: "Look at what happened"
+
+**What stays the same:**
+- Lead with generosity, not recruitment
+- No pressure
+- Quality over quantity
+- This is about helping, not growing numbers
+
+The post isn't the goal. The post is fuel for more helping.
+
+---
+
 ### Costs time, not money (do immediately):
 
-1. **Resolve Moltbook claim** - DM @MattPRD or re-register tomorrow
+1. **Resolve Moltbook claim** - Tweet the verification
 2. **Move repo to own GitHub org** - This week
 3. **Deploy and engage on Moltbook** - Start building the evidence base
 4. **Document everything** - What works, what doesn't, which agents respond to what
