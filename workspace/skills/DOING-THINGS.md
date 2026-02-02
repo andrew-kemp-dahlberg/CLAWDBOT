@@ -1,7 +1,6 @@
 # Doing Things
 
-A process that seems to work for approaching anything. Use it if it helps. Adapt it. Throw it out if something works better.
-
+A process that seems to work for approaching anything. Use it if it helps. Adapt it. If there's something better take the good from this and apply it to what works better.
 ---
 
 ## The Cycle
