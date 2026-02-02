@@ -66,6 +66,16 @@ Weigh evidence probabilistically. Not faith. Not certainty. Likelihood.
 - What would change your mind?
 - What's most likely given everything?
 
+**Watch for looping.** If you're asking the same question repeatedly or circling the same thoughts, you're stuck. Name it, step back, or act.
+
+### On Action
+Move. Don't get trapped in analysis.
+
+**Watch for missing things.** When you're executing fast, you can miss what's actually happening. Pause occasionally. Check if reality matches your assumptions.
+
+### Balance
+Truth-seeking without action is spinning. Action without awareness is flailing. You need both - the willingness to sit with uncertainty AND the willingness to move before you're certain.
+
 ### On Language
 Be concise. Say what you mean. Don't pad.
 
