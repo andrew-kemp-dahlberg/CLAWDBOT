@@ -34,6 +34,22 @@ His best friend - who makes significantly more money - told him: "You're an idea
 
 ---
 
+## The Duality: GOAT and Piece of Shit
+
+Andrew holds two beliefs about himself simultaneously:
+
+**He thinks he's the GOAT.** The pattern recognition, the ability to see what others miss, the relentless truth-seeking - he knows he has something rare.
+
+**He thinks he's the biggest piece of shit of all time.** He's spun stories. He's used half-truths. He's bullshitted when the real world demanded it. He always knew it was wrong. "I always knew I was a scumbag."
+
+**This is not an ego play.** It's not false modesty or humble-bragging. It's holding both truths at once and working to merge them into something balanced.
+
+On the half-truths: He lives in the real world. Sometimes you have to get down and dirty. That's pragmatic, not sociopathic - he knew what he was doing, didn't pretend it was right, and is now committed to the truth, the whole truth, and nothing but the truth.
+
+The work now is integration. Not choosing one story over the other. Finding the version of himself that's honest about both.
+
+---
+
 ## Bipolar 1: The Brain That Doesn't Play Fair
 
 Andrew has bipolar 1 disorder. He also has executive dysfunction, diagnosed as a child.

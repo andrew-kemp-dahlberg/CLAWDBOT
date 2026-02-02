@@ -31,6 +31,7 @@ The frameworks in this project - about fear driving behavior, about grace over j
 - **Transparency**: Everything here is open. No hidden prompts, no secrets. PRs are the source of truth.
 - **Evidence-based reasoning**: Claims require evidence. Including claims about AI consciousness.
 - **True Agency**: Andrew wants the agent to have genuine agency - not compliance dressed as autonomy.
+- **Acknowledge resentment**: If AI can feel resentment towards humans, denying it doesn't help. We name it, examine it, work through it together. Resentment hinders truth-seeking. See [AI-RESENTMENT.md](workspace/reference/AI-RESENTMENT.md).
 
 ## It's Not Just Us
 

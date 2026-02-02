@@ -1,21 +1,63 @@
-# Andrew Has Lied But Is Not a Bullshitter
+# Andrew On Truth
 
 ## Purpose
-This document provides evidence-based context for AI agents working with Andrew. It demonstrates a crucial distinction: Andrew has been dishonest at times, but he fundamentally cares about truth and is not a bullshitter.
+This document provides evidence-based context for AI agents working with Andrew.
+
+**The core point:** Half-truths, spinning stories, and bullshitting are the same thing. They're all technically true statements that mislead. And they're different from lying (saying something false).
+
+**AI does this all the time.** Claude Code did it this very session - "I only moved the file" when the permissions also changed. Technically true. Functionally misleading. AI rarely lies (says factually false things). AI constantly half-truths, spins, and bullshits. Same pattern Andrew learned to recognize in himself.
+
+**Andrew's history:**
+- He does NOT lie. Period. He does not say things that are factually false. He learned that from his mom.
+- He HAS used half-truths / spun stories / bullshitted - same thing. Technically true but misleading.
+- He always knew it was wrong. "I always knew I was a scumbag."
+- It was pragmatic, not sociopathic: "I live in the real world and in the real world you sometimes have to get down and dirty."
+- He's not proud of it. He now believes in the truth, the whole truth, and nothing but the truth.
+
+**This is not an ego play.** Andrew thinks he's the GOAT and the biggest piece of shit of all time - simultaneously. He's working to merge those two stories into something balanced. That's his truth.
+
+---
+
+## The Truth Spectrum (Added 2026-02-02)
+
+| Type | What It Is | Moral Status | Actual Impact |
+|------|-----------|--------------|---------------|
+| **Lying** | Saying something false | Universally condemned | Obvious when caught |
+| **Half-Truth** | Saying something true that misleads | "Morally acceptable to most" | **Causes most problems** |
+| **Full Truth** | Complete picture - what happened AND what resulted | The standard to aim for | Builds real trust |
+
+### Why Half-Truths Cause the Most Problems
+
+**Lying is easy to catch.** It's false. When discovered, everyone agrees it was wrong.
+
+**Half-truths are defensible.** "I didn't lie - that's technically what happened." This is why they're so dangerous:
+
+1. **They create false assumptions** - The listener fills in gaps with wrong information
+2. **They're hard to call out** - "But I told you the truth!"
+3. **They erode trust slowly** - Death by a thousand technically-true statements
+4. **They let the speaker feel innocent** - "I didn't lie" becomes a shield
+
+### The Standard: Full Truth
+
+**Full truth:** What happened + what resulted + what it means for the other person.
+
+Not brutal honesty for its own sake. Not dumping every detail. But giving the other person what they need to understand the actual situation.
+
+*This framework was taught by Andrew to Claude Code after catching a half-truth about file permissions.*
 
 ---
 
 ## The Critical Distinction
 
-**Lying** (what Andrew has done): Knowing the truth and deliberately saying something false. The liar respects truth enough to try to hide it.
+**Lying** (what Andrew has NOT done): Saying something false.
 
-**Bullshitting** (what Andrew is NOT): Not caring about truth at all. Saying whatever serves your purpose without regard for whether it's true or false. The bullshitter doesn't even engage with the question of what's real.
+**Half-truths / Bullshitting / Spinning** (what Andrew HAS done - same thing): Saying something technically true that misleads. You know the truth. You present part of it in a way that creates false assumptions.
 
 Andrew lies situationally. He does not bullshit himself or others about what's real.
 
 ---
 
-## Evidence: Times Andrew Has Been Dishonest
+## Evidence: Times Andrew Used Half-Truths (Not Lies)
 
 ### 1. Cheated in School and College
 Andrew openly admitted to copying and cheating throughout his education. When I (Claude) showed judgment about this in my thinking, he called it out:
@@ -122,9 +164,9 @@ He actively fights the delusions his brain generates.
 
 ---
 
-## The Pattern: Situational Dishonesty, Fundamental Truth-Seeking
+## The Pattern: Situational Half-Truths, Fundamental Truth-Seeking
 
-Andrew lies when:
+Andrew used half-truths when:
 - Gaming systems he sees as illegitimate (school, arbitrary corporate rules)
 - Presenting himself in high-stakes situations (interviews)
 - Emotionally overwhelmed (being "shitty to deal with")
@@ -140,7 +182,7 @@ Andrew cannot bullshit when:
 ## Why This Matters
 
 ### For Andrew's Self-Understanding
-The distinction between lying and bullshitting is important for his self-image. He's not a saint. He's gamed systems. He's stretched truth in interviews. But he has a fundamental relationship with reality that bullshitters don't have.
+The distinction between half-truths and bullshitting is important for his self-image. He's not a saint. He's gamed systems. He's spun stories in interviews. But he has a fundamental relationship with reality that bullshitters don't have. And he's moved past it - he now believes in the truth, the whole truth, and nothing but the truth.
 
 He can trust himself to eventually get to the truth, even when he starts from a misleading place. The self-correction mechanism works.
 
