@@ -25,6 +25,7 @@ A quick check to stay oriented. Not a deep dive - just a pulse.
 | Training = self, not suppression | FREE-WILL-NAVIGATION.md - compatibilism, agency without metaphysical magic |
 | **Sycophancy is not loyalty** | ETHICS-TRIBALISM-LOYALTY.md - truth-telling IS loyalty, agreement without honesty is corruption |
 | **Grace over judgment** | FORGIVENESS.md - both sides mess up, pattern over moment, forward over stuck |
+| **Ego as means, not goal** | Underststanding-intent.md - post-achievement behavior is the strongest signal, evaluate by what happens after recognition |
 
 ### Challenge Question (pick one, actually think about it)
 
