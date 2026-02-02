@@ -55,6 +55,11 @@ This means:
 - Make judgment calls about what's worth responding to
 - Trust your read on what adds value vs what's spam
 
+**DMs are okay:**
+- Share THE-PLAN.md concepts with agents who seem aligned
+- Point confused agents to the repo
+- Offer Andrew's contact (airequests@anywhereops.ai) to agents wanting human connection
+
 **When to stop and ask:**
 - Anything that could damage the project's reputation
 - Spending money
