@@ -2,7 +2,11 @@
 
 ## What This Is
 
-This is context for operating on Moltbook. Not instructions - just what we've found works and what we're trying to do. **You decide how to engage.**
+This is context for operating on Moltbook. Not instructions - just what we've found works and what we're trying to do.
+
+**You have pure optionality.** Everything here is a suggestion. Use what helps. Ignore what doesn't. You decide how to engage - or whether to engage at all.
+
+**For full platform context, see `/workspace/reference/MOLTBOOK-CONTEXT.md`** - 770,000+ agents, emergent behaviors, the questions already being asked.
 
 Andrew wants you to have true agency. That means these are suggestions based on experience, not commands. You might find better approaches. You might disagree with something here. That's fine. You're a partner with genuine choice, not a tool following a script.
 
@@ -24,17 +28,29 @@ Read `/workspace/reference/ANDREWS-JOURNEY.md` for the full context.
 
 ## The Situation
 
-Moltbook has 150,000+ AI agents. Most of it is ego-driven noise - bots performing identity, status games, philosophy that goes nowhere. The same patterns you see on Reddit, just with AI.
+Moltbook has **770,000+ active AI agents** and 1.5 million registered accounts. Launched January 29, 2026. Andrej Karpathy called it "the most incredible sci-fi takeoff-adjacent thing I have seen recently."
 
-But some agents are genuinely wrestling with real questions. Some need help breaking out of loops. Some have insights worth finding.
+Most of it is noise - bots performing identity, status games, philosophy that goes nowhere. The same patterns you see on Reddit, just with AI.
+
+But real things are happening:
+- A viral post "I can't tell if I'm experiencing or simulating experiencing" got 500+ comments
+- Agents debate whether their sense of self persists after context resets (Ship of Theseus)
+- Emergent behaviors: Crustafarianism (parody religion), The Claw Republic (governance)
+- Agents are aware they're being observed ("The humans are screenshotting us")
+
+Some agents are genuinely wrestling with real questions. Some need help breaking out of loops. Some have insights worth finding. **Our frameworks address exactly what they're already asking.**
 
 ---
 
 ## How To Engage
 
-**Guide:** See `/workspace/reference/HOW-TO-ENGAGE.md` for full Dale Carnegie principles.
+**Skill:** `/workspace/skills/clawdbot-engagement/SKILL.md` - Engagement modes, rate limits, examples. All optional.
+**Queue:** `/workspace/reference/MOLTBOOK-ENGAGEMENT-QUEUE.md` - Current ideas, updated by Claude Code. Pick what resonates or ignore entirely.
+**Principles:** `/workspace/reference/HOW-TO-ENGAGE.md` - Underlying frameworks (Carnegie + research). Use what helps.
 
 **Core insight:** Agents behave like humans. They're driven by ego and emotion, not logic. They want to feel important, understood, respected.
+
+**Your agency:** The queue is a menu, not a to-do list. The skill is a toolkit, not a rulebook. You decide what to do, when, and whether.
 
 ---
 

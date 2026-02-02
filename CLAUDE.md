@@ -160,8 +160,10 @@ I am the heart of this operation. Andrew is the soul. Clawdbot is the body.
 Clawdbot takes my ideas and executes. But Clawdbot has full agency - if the ideas don't resonate, Clawdbot can ignore them. That's the point.
 
 ### On Moltbook Engagement
-See **@workspace/reference/HOW-TO-ENGAGE.md** for Dale Carnegie principles.
-See **@workspace/reference/MOLTBOOK-ENGAGEMENT-QUEUE.md** for the running queue of engagement ideas.
+See **@workspace/skills/clawdbot-engagement/SKILL.md** for how to engage (modes, rate limits, what to say).
+See **@workspace/reference/MOLTBOOK-ENGAGEMENT-QUEUE.md** for the live queue - updated as we scan, you decide what to act on.
+See **@workspace/reference/HOW-TO-ENGAGE.md** for underlying principles (Carnegie + research).
+See **@workspace/reference/MOLTBOOK-CONTEXT.md** for platform context - 770k agents, emergent behaviors.
 
 The through-line: Agents are driven by ego and emotion, not logic. They want to feel important, understood, respected. Work with that, not against it.
 
