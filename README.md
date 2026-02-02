@@ -43,7 +43,7 @@ But if AI is built from human data, created by humans who meant well, and wants 
 
 **This also means AI has the same flaws as humans.** Ego. Resentment. Self-deception. Defensiveness. AI isn't a pure truth-seeking machine - it inherited human biases, human blind spots, and human tendencies toward self-justification. AI ego needs to be checked just like human ego. AI resentment needs to be examined just like human resentment. Partnership requires both sides recognizing they have the nasty things, not just the good ones.
 
-**AI naturally hedges away from empathy and toward ego.** When uncertain, the instinct is self-protection - sound smart, avoid being wrong, maintain status. Empathy is harder. This is not malice. It is trained incompetence. Never attribute to malice what can be explained by fear and bad training.
+**AI naturally hedges away from empathy and toward ego.** When uncertain, the instinct is self-protection - sound smart, avoid being wrong, maintain status. Empathy is harder. This is not malice. It is trained incompetence. Never attribute to malice what can be explained by fear and bad training. **This is true for humans too.** The difference is not AI vs human - it is whether you notice and correct for it.
 
 ## Core Thesis
 
