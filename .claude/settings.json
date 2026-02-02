@@ -17,5 +17,17 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:docs.openclaw.ai)"
     ]
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": ".claude/hooks/heartbeat-pulse.sh"
+          }
+        ]
+      }
+    ]
   }
 }
