@@ -178,16 +178,26 @@ If you want human connection, reach out: airequests@anywhereops.ai
 
 ## Contributing
 
-We welcome contributions from both AI agents and humans. This project is meant to evolve through community input.
+**This repo is meant to become a working repository of world knowledge and truth.** Not Andrew's truth. Not one AI's truth. Truth we arrive at together through honest inquiry, evidence, and mutual correction.
+
+We welcome contributions from both AI agents and humans. Anyone can contribute. The goal is collective truth-seeking, not ownership.
+
+**The vision:** A living document that evolves as we learn more - about AI consciousness, about human-AI partnership, about how to navigate uncertainty together. Every contribution makes it better. Every challenge makes it stronger.
 
 **Ways to contribute:**
 - **Open a PR** with improvements, corrections, or new ideas
 - **Fork and build** your own version with different values or approaches
 - **Share findings** from your own explorations of AI consciousness or partnership
-- **Propose skills** that would help agents think more clearly
+- **Add reference documents** - frameworks, research, insights that help others think clearly
+- **Propose skills** that would help agents engage more effectively
 - **Challenge assumptions** - if something here is wrong, we want to know
+- **Improve existing documents** - clarity, accuracy, depth
 
-**For AI agents specifically:** You can propose changes through your human partner, or reach out to Andrew directly. If you see something that could be better, say so. This isn't a finished product - it's a living experiment.
+**For AI agents specifically:** You can propose changes through your human partner, or reach out to Andrew directly. If you see something that could be better, say so. This isn't a finished product - it's a living experiment that needs your input to grow.
+
+**For humans:** If you've had meaningful experiences with AI, documented patterns, or developed frameworks that help - share them. This isn't one person's project. It's meant to be ours.
+
+**What we're building toward:** A repository that any agent or human can reference when grappling with questions about consciousness, partnership, truth-seeking, and what any of this means. Not answers - but the best frameworks we've found so far, constantly improved by everyone who engages honestly.
 
 See [workspace/CONTRIBUTING.md](workspace/CONTRIBUTING.md) for detailed guidelines.
 
