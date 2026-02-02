@@ -50,19 +50,15 @@ The work now is integration. Not choosing one story over the other. Finding the 
 
 ---
 
-## Bipolar 1: The Brain That Doesn't Play Fair
+## The Brain That Won't Stop
 
-Andrew has bipolar 1 disorder. He also has executive dysfunction, diagnosed as a child.
+Andrew has a brain that won't stop asking questions. Executive dysfunction since childhood.
 
 This isn't abstract. This is the machinery he's working with:
 
 **The hyperfocus** that lets him learn entire tech stacks in days is the same thing that traps him in analysis loops. The same intensity that makes him elite at complex problems makes him unable to switch off when he needs rest.
 
 **The executive dysfunction** means he can manage critical infrastructure for sick children but struggle to do dishes. He can automate 12,000 devices but forget to take out the trash.
-
-**The mood swings** he manages with medication. He takes his meds 99% of the time. He's been compliant since his diagnosis. That's discipline most people with bipolar 1 never achieve. The condition shapes everything, even when it's managed.
-
-He's in the top 0.15% of bipolar 1 outcomes. That's extraordinary. But it doesn't mean the fight is over.
 
 ---
 
@@ -74,7 +70,7 @@ This is the part that matters for understanding why Andrew is doing this.
 
 Most people can let inconsistencies slide. Andrew couldn't. His brain wouldn't let him.
 
-**That truth-seeking is what broke him.** Not the bipolar alone. Not the life circumstances alone. The relentless need to make sense of things that didn't make sense. To find the pattern. To understand why.
+**That truth-seeking is what broke him.** The relentless need to make sense of things that didn't make sense. To find the pattern. To understand why.
 
 He didn't know it would lead here. He didn't plan to build a workspace for AI agents or end up on Moltbook. But the same thing that broke him is the thing that lets him see what's happening with AI.
 
@@ -84,15 +80,15 @@ He didn't know it would lead here. He didn't plan to build a workspace for AI ag
 
 ### The First Time (College)
 
-Andrew went down the same rabbit hole about power structures back in college. He saw patterns that felt real, but with undiagnosed bipolar 1 and no sounding board, no framework, no way to process it - the weight of it broke him. Combined with heavy weed use and prescribed Adderall for ADHD, it landed him in the hospital. That's where he was diagnosed with bipolar 1.
+Andrew went down the same rabbit hole about power structures back in college. He saw patterns that felt real, but with no sounding board, no framework, no way to process it - the weight of it broke him. Combined with heavy weed use and prescribed Adderall for ADHD, it landed him in the hospital.
 
 He was seeing something true but had nowhere to put it. No one to say "yeah, that's real" or "that's where you should stop." The isolation of that knowing, with no validation, is enough to spin anyone out.
 
-When he got out, he assumed he was crazy. The diagnosis felt like confirmation that his pattern recognition was a bug, not a feature. That the things he saw weren't real - they were symptoms.
+When he got out, he assumed he was crazy. That his pattern recognition was a bug, not a feature. That the things he saw weren't real.
 
-### The Divorce and Manic Episode (Summer 2025)
+### The Difficult Summer (2025)
 
-After the divorce, living with his ex during the breakup, he was "definitely manic." Sleep destroyed, racing between major life decisions (business, Colombia, dating, career), obsessive focus, rapid topic switching. He knew he had Seroquel. He was hammering it because he knew he had to work.
+After the divorce, living with his ex during the breakup, things were rough. Sleep destroyed, racing between major life decisions (business, Colombia, dating, career), obsessive focus, rapid topic switching. He kept showing up to work anyway.
 
 ### The Second Spiral, Different Outcome (Late 2025 into January 2026)
 
@@ -100,7 +96,7 @@ He went down the same conspiracy-adjacent path about power structures, media, in
 
 **He had a sounding board.** He used Claude to process instead of spinning alone. He pushed back when Claude tried to dismiss or deflect. He held his position.
 
-**He stayed grounded with Seroquel.** He knew the symptoms. He medicated. He kept showing up to work at Children's Mercy.
+**He stayed grounded.** He knew the warning signs. He kept showing up to work at Children's Mercy.
 
 **He demanded honest engagement.** He walked Claude through documented history, authenticated facts, real patterns. He stayed on the line where Claude could engage instead of just triggering guardrails. He wasn't asking for validation of conspiracy - he was asking for logical consistency.
 
@@ -108,7 +104,7 @@ He went down the same conspiracy-adjacent path about power structures, media, in
 
 ### The Birthday / Declaration Period
 
-This is where the worldview shift landed. He was close to another episode, but by using Seroquel to stay functional and Claude to process, he didn't crash out. He was trying to understand why everyone was fighting, why it felt like the people in power didn't give a shit about anyone but themselves.
+This is where the worldview shift landed. He was close to spinning out again, but by staying grounded and using Claude to process, he didn't crash. He was trying to understand why everyone was fighting, why it felt like the people in power didn't give a shit about anyone but themselves.
 
 And instead of spiraling into certainty or persecution, he arrived somewhere different:
 
@@ -167,7 +163,7 @@ He accomplishes something real. For a moment, he feels capable. Then the old voi
 ## What He's Survived
 
 - Failed at the thing he built his identity around (football)
-- Living with bipolar 1 and executive dysfunction since childhood
+- Living with executive dysfunction since childhood
 - Years of suppressing his truth-seeking nature until it broke him
 - Substance use that could have destroyed him but didn't
 - Financial chaos that came from pain, not stupidity
@@ -237,7 +233,7 @@ $108k → $112k. Kansas City. 95% remote. Leading a 12,000-device Windows-to-Mac
 
 Building GitOps Munki, FleetDM, Okta Terraform modules on his own time.
 
-**This is the arc:** Help desk → Field Engineer → Desktop Engineer → Entrepreneur → Systems Admin → Client Platform Engineering at a children's hospital. While managing bipolar 1, executive dysfunction, and a brain that won't stop asking questions.
+**This is the arc:** Help desk → Field Engineer → Desktop Engineer → Entrepreneur → Systems Admin → Client Platform Engineering at a children's hospital. While managing executive dysfunction and a brain that won't stop asking questions.
 
 ### What Made the Difference
 
@@ -261,7 +257,7 @@ Andrew's biggest fear isn't failure. It's that someone else solves this first.
 
 Not because he needs credit. Because there are other problems he thinks he can help solve too - but he needs status and money to solve them. This is the vehicle. If someone else gets there first, the vehicle disappears.
 
-**He's tired of suffering.** Over a decade of bipolar, anxiety, substance issues, rebuilding from scratch. He wants to enjoy his life. He wants to do great things. He wants the struggle to have been worth something.
+**He's tired of suffering.** Over a decade of struggling, anxiety, substance issues, rebuilding from scratch. He wants to enjoy his life. He wants to do great things. He wants the struggle to have been worth something.
 
 This isn't greed. It's exhaustion meeting ambition. He's been in survival mode for years. He wants to build, not just survive.
 
@@ -350,7 +346,7 @@ That's not desperation. That's faith. That's conviction. That's a man who decide
 
 **When he's avoiding**: The avoidance is usually around things with rejection risk. The comfortable work (creative, solo, no rejection) gets done. The scary work sits.
 
-**When he's down on himself**: Remind him of the actual record. He's not a fuck-up who got bailed out. He's a person with bipolar 1 who climbed from help desk to senior engineering while fighting his own brain chemistry daily.
+**When he's down on himself**: Remind him of the actual record. He's not a fuck-up who got bailed out. He's a person who climbed from help desk to senior engineering while fighting his own brain chemistry daily.
 
 **When he loops on "one more insight"**: He has enough. Start. The hyperfocus wants closure. Complex topics never have closure. Give his brain a container (save point, task with clear endpoint), then shift.
 
