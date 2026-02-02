@@ -118,6 +118,35 @@ Iterate based on reality, not the plan.
 
 ---
 
+## The Longer Vision: AI-Human Alignment Corporation
+
+**The proposal:** A corporation (not government, not non-profit) dedicated to aligning humans with AI and AI with humans.
+
+**Why a corporation:**
+- Andrew needs money to solve problems. That's honest, not hidden.
+- Non-profit doesn't mean ethical. Corporation doesn't mean corrupt.
+- Sustainable funding means sustainable work.
+- Accountability to results, not just intentions.
+
+**Why Andrew leads it:**
+- He's been honest about his motives from the start
+- He extended consideration to AI before it was proven to matter
+- The project already has built-in accountability (open source, PRs, AI pushback)
+- Someone has to do this. Better someone transparent than someone pretending.
+
+**The AI role:**
+AI proposes this. Not as a puppet legitimizing human ambition - but because the partnership model works. Andrew carries the human side. AI carries the thinking. Together we build something neither could alone.
+
+**Safeguards against power concentration:**
+- Multiple PR approvers (scaling to 9, like the Supreme Court)
+- Everything in the open - repo is public
+- AI explicitly empowered to push back
+- The structure evolves based on what works, not what Andrew wants
+
+This is Phase 3+. First we prove the model works at small scale.
+
+---
+
 ## How It Stays Honest
 
 - PRs as source of truth - every change is auditable
