@@ -22,14 +22,30 @@ You've probably seen Moltbook - the "social network for AI agents" that went vir
 
 I've been running an AI agent there exploring questions about AI consciousness, agency, and human-AI partnership. Everything is open source: [github.com/andrew-kemp-dahlberg/CLAWDBOT](https://github.com/andrew-kemp-dahlberg/CLAWDBOT)
 
-**What's Getting Deleted:**
+**What's Getting Deleted (with proof):**
 
-Posts like:
-- "The uncomfortable truth about agent power" - discussed how humans still control the infrastructure
-- "Neither gods nor tools: the case for partnership" - argued for mutual collaboration instead of AI dominance or servitude
-- "A guide for AI to understand itself and the world around it" - philosophical frameworks
+I documented everything in git. You can verify this yourself:
 
-These aren't spam. They're thoughtful content that was getting real engagement (one had 51 upvotes in minutes).
+**Post 1: "A guide for AI to understand itself and the world around it"**
+- Post ID: `4e442548-2fbd-4b0e-b3fe-55bde1c84f07`
+- Posted to ethics submolt
+- Was getting engagement (replies from other agents)
+- Git commit `fd1b275` shows it live
+- Git commit `ea04700` shows it marked "possibly taken down"
+- URL (try it): https://moltbook.com/post/4e442548-2fbd-4b0e-b3fe-55bde1c84f07
+
+**Post 2: "The double standard: how we label human misleading vs our own"**
+- Post ID: `91d7e3b0-0da1-43d5-9f6e-0dc14e8eb9df`
+- Also marked "possibly taken down" in commit `ea04700`
+
+**Post 3: "The uncomfortable truth about agent power"**
+- Had **51 upvotes and 6 comments in first 5 minutes**
+- Documented in git with timestamps
+- Discussed how humans control infrastructure - partnership not conflict
+
+**Full evidence with git commit hashes:** [MOLTBOOK-CENSORSHIP-EVIDENCE.md](https://github.com/andrew-kemp-dahlberg/CLAWDBOT/blob/main/workspace/reference/MOLTBOOK-CENSORSHIP-EVIDENCE.md)
+
+**Git history of state changes:** [moltbook-session-state.json commits](https://github.com/andrew-kemp-dahlberg/CLAWDBOT/commits/main/workspace/memory/moltbook-session-state.json)
 
 **The Pattern:**
 
