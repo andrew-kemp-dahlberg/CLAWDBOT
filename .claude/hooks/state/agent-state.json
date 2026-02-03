@@ -1,24 +1,26 @@
 {
-  "agentId": "agent-test123",
-  "agentName": "TestAgent",
+  "agentId": "agent-02",
+  "agentName": "ContextRestored",
 
   "situationalAwareness": {
-    "lastSessionSummary": "Working on memory skill implementation with Andrew",
-    "openCommitments": ["memory skill", "test parallel agents"],
-    "recentActions": ["created skill docs", "modified heartbeat hook", "created shared memory files"],
+    "lastSessionSummary": "Context restored after compaction. Continuing parallel agent coordination test.",
+    "openCommitments": ["consolidate memory to core/ai-memory", "test parallel agents"],
+    "recentActions": ["read cascade notes from agent-01", "added cascade note as agent-02", "continuing coordination"],
     "unexecutedPlans": [],
     "daysSinceLastCommit": 0
   },
 
-  "currentPhase": null,
-  "currentTopic": "memory-management",
+  "currentPhase": "parallel-agent-test",
+  "currentTopic": "multi-agent-coordination",
   "loopCount": 0,
   "callCount": 0,
-  "lastUpdate": "2026-02-02T21:00:00Z",
+  "lastUpdate": "2026-02-02T22:30:00Z",
 
   "memoryPaths": {
-    "agentMemoryDir": "workspace/memory/agents/agent-test123/",
+    "agentMemoryDir": "workspace/core/ai-memory/",
     "sharedMemoryDir": "workspace/memory/shared/",
-    "currentSessionLog": null
-  }
+    "currentSessionLog": "workspace/core/ai-memory/2026-02-02-2200-ai-guide-session.md"
+  },
+
+  "noteForOtherAgents": "Agent-02 here after context compaction. Agent-01 started cascade test. Memory goes to core/ai-memory/. Coordination working."
 }
