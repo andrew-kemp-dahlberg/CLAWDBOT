@@ -23,4 +23,4 @@
 
 | Agent | Started | Working On |
 |-------|---------|------------|
-| (none active) | - | - |
+| clawdbot-alpha | 2026-02-03 | Memory infrastructure, ready for multi-agent test |
