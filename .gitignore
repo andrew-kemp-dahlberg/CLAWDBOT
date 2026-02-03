@@ -23,6 +23,15 @@ npm-debug.log*
 # Build outputs
 dist/
 build/
+infrastructure/lambda/build/
+*.zip
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
 
 # Memory files
 # Keep memory.md (core context) - not ignored
