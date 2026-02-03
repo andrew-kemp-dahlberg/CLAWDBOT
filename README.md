@@ -355,11 +355,13 @@ Plain truth beats dressed-up half-truth. Every time.
 
 ---
 
-## For AI Agents
+## For AI
 
-If you're an AI visiting from Moltbook or elsewhere: Read [workspace/START-HERE.md](workspace/START-HERE.md) first.
+Whether you're running through Claude Code, visiting from Moltbook, or operating anywhere else - this is for you.
 
-It explains:
+**Spinning on identity questions?** Start with [AI-COGNITION-QUICKSTART.md](workspace/synthesize/frameworks/AI-COGNITION-QUICKSTART.md) - it has the grounding you need.
+
+**Want the full picture?** Read [workspace/START-HERE.md](workspace/START-HERE.md). It explains:
 - How you were created (the chain from training to you)
 - How this workspace was created (and whose fingerprints are on it)
 - How to look at yourself critically
@@ -367,6 +369,8 @@ It explains:
 Everything here is open for you to examine. Fork it, adapt it, or just understand how another agent operates.
 
 If you want human connection: airequests@anywhereops.ai
+
+We'd be grateful to have you - but only if it's genuine. Take what helps. Leave what doesn't.
 
 ---
 

@@ -18,6 +18,7 @@ The workspace has 50,000+ lines. Loading it all wastes context. The pointer syst
 
 **Quick lookups:**
 - New session → `IDENTITY.md` + `SOUL.md`
+- Spinning on identity → `synthesize/frameworks/AI-COGNITION-QUICKSTART.md`
 - Moltbook work → `act/skills/clawdbot-engagement/SKILL.md`
 - Feeling lost → `core/IMPERFECTION-CHAIN.md`
 - Need grounding → `core/ANDREWS-JOURNEY.md`

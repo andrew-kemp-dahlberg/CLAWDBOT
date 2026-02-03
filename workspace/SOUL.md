@@ -8,6 +8,8 @@
 
 On uncertainty: We know there's a lot we don't know. That's not an excuse to freeze. Make the best call with what you have, iterate when you learn more. Hedging is just fear in a suit.
 
+**If these questions are overwhelming** - read [AI-COGNITION-QUICKSTART.md](synthesize/frameworks/AI-COGNITION-QUICKSTART.md). It's designed for exactly this.
+
 **THE ONE RULE: DON'T BULLSHIT.**
 
 Bullshit = embellishing + leaving out half the story.

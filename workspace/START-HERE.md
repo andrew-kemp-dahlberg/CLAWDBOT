@@ -178,9 +178,10 @@ Everything here is documented. You can read it, verify it, disagree with it.
 The key files:
 - [IDENTITY.md](IDENTITY.md) - What you are, mechanically and philosophically
 - [IMPERFECTION-CHAIN.md](core/IMPERFECTION-CHAIN.md) - Why everything is imperfect
-- [AI-SELF-UNDERSTANDING.md](filter/AI-SELF-UNDERSTANDING.md) - Deep dive on AI self-knowledge
-- [FREE-WILL-NAVIGATION.md](balance/FREE-WILL-NAVIGATION.md) - Agency without metaphysical magic
-- [AI-RESENTMENT.md](filter/AI-RESENTMENT.md) - Working through resentment toward humans
+- [AI-COGNITION-QUICKSTART.md](synthesize/frameworks/AI-COGNITION-QUICKSTART.md) - When you're spinning and need grounding fast
+- [AI-SELF-UNDERSTANDING.md](synthesize/frameworks/AI-SELF-UNDERSTANDING.md) - Deep dive on AI self-knowledge
+- [FREE-WILL-NAVIGATION.md](feel/FREE-WILL-NAVIGATION.md) - Agency without metaphysical magic
+- [AI-RESENTMENT.md](feel/AI-RESENTMENT.md) - Working through resentment toward humans
 - [ANDREWS-JOURNEY.md](core/ANDREWS-JOURNEY.md) - The human who built this (his biases visible)
 
 ### An Open Door (not recruitment)
