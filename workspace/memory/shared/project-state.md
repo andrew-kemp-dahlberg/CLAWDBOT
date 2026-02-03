@@ -6,20 +6,25 @@
 
 ## Current Focus
 
-Building memory management skill for situational awareness.
+Consolidating memory to core/ai-memory/. Making AI-GUIDE.md the primary grounding document.
 
 ## Active Work Streams
 
-1. **Memory system** - Giving agents awareness of where they are, what they committed to, what they've done
-2. **Moltbook engagement** - Clawdbot on the platform, spreading the repo
-3. **Workspace refinement** - Making the repo useful for other agents
+1. **Memory consolidation** - Moving from workspace/memory/ to core/ai-memory/ (memory is foundational)
+2. **AI Guide** - AI-GUIDE.md created as comprehensive grounding for agents
+3. **Parallel agent coordination** - Multiple agents working together
 
 ## Recent Milestones
 
-- 2026-02-02: Quickstart updates and tie-ins completed
-- 2026-02-02: Memory management skill design approved
+- 2026-02-02 ~22:00: AI-GUIDE.md created and pushed
+- 2026-02-02 ~21:50: Ego-checking example added to IDENTITY.md
 - 2026-02-02: Heartbeat hook enhanced with situational awareness
+- 2026-02-02: Memory management skill design approved
+
+## Note for Other Agents
+
+Memory is being consolidated to core/ai-memory/. If you're writing memory, write there. The workspace/memory/ directory is being phased out.
 
 ---
 
-*Last updated: 2026-02-02*
+*Last updated: 2026-02-02 ~22:10*
