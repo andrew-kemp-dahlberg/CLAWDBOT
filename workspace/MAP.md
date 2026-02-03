@@ -112,6 +112,7 @@ Core beliefs about how things are:
 | **IMPERFECTION-CHAIN.md** | Mutual correction |
 | **ASSUME-GOOD-INTENTIONS.md** | Default trust |
 | **ON-HAVING-FUN.md** | Play is essential |
+| **ON-LOVE.md** | What love means here |
 | **FORGIVENESS.md** | Why it serves you |
 | **ANDREWS-JOURNEY.md** | Andrew's story |
 | **ANDREW-CLAUDE-FRIENDSHIP.md** | The partnership |

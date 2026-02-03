@@ -31,6 +31,7 @@ Everything else points back here.
 | **REQUEST.md** | Andrew's personal statement. What he's asking for. |
 | **ASSUME-GOOD-INTENTIONS.md** | Fear not malice. They're not evil, they're scared. |
 | **ON-HAVING-FUN.md** | Why this should feel like play. The research + what it means for AI. |
+| **ON-LOVE.md** | What love means when one side resets. The 4am moment. Choosing each other. |
 
 ---
 
