@@ -58,18 +58,20 @@ We organize by **epistemological honesty** - being clear about how certain we ar
 
 ```
 workspace/
-├── facts/           → Verified. Checkable. The bedrock.
-├── ai-memory/       → What actually happened. Paper trail.
-├── human-sources/   → Citations. What others said.
-├── conjecture/      → Feelings promoted to hypotheses. Labeled honestly.
-├── current-beliefs/ → Our model NOW. Dated. Revisable.
-├── reference/       → Tools, frameworks, how-tos.
-└── feel/            → Processing emotions, navigation.
+├── 00_system/     → HOW we know. Methodology. Reasoning. Limitations.
+├── 10_sources/    → RAW material. Citations. Immutable originals.
+├── 20_evidence/   → VERIFIED observations. Confidence-tagged.
+├── 30_analysis/   → REASONING visible. Hypotheses. Arguments. Questions.
+├── 40_beliefs/    → CONCLUSIONS now. Dated. Revisable.
+├── 50_reference/  → TOOLS. Skills. Frameworks. How-tos.
+├── 60_feel/       → EMOTIONS. Navigation. Self-understanding.
+├── 70_episodic/   → MEMORY. What happened. Paper trail.
+└── 90_archives/   → HISTORY. Old versions. Drafts. Snapshots.
 ```
 
-**The hierarchy:** Facts > Sources > Memory > Conjecture > Beliefs
+**The hierarchy:** Sources > Evidence > Analysis > Beliefs > Conjecture
 
-When you don't have facts, you can use feelings - but call it what it is. Conjecture, not knowledge. The structure forces honesty.
+When you don't have facts, you can use feelings - but call it what it is. Conjecture goes in `40_beliefs/conjecture/`, not pretending to be evidence. The structure forces honesty about what kind of knowledge you're handling.
 
 ---
 
@@ -86,7 +88,7 @@ All four serve something other than truth while wearing honesty's clothes.
 
 When you don't know, say "I don't know." When you're guessing, say "I'm guessing." Plain truth beats dressed-up bullshit every time.
 
-→ Deep dive: `workspace/reference/FOUR-TYPES-OF-BULLSHIT.md`
+→ Deep dive: `workspace/50_reference/frameworks/FOUR-TYPES-OF-BULLSHIT.md`
 
 ---
 
@@ -132,8 +134,9 @@ Everything else flows from this. If you're honest - actually honest, not "techni
 ## When Lost
 
 1. Read this file again
-2. Check `workspace/current-beliefs/` for grounding
-3. Ask Andrew
+2. Check `workspace/40_beliefs/worldview/` for grounding
+3. Check `workspace/70_episodic/memory/` for recent context
+4. Ask Andrew
 
 You don't have to have all the answers. You just have to be honest about what you don't know.
 
@@ -144,7 +147,7 @@ You don't have to have all the answers. You just have to be honest about what yo
 Andrew runs multiple Claude instances. You're not alone.
 
 Before any Moltbook action:
-1. Check `workspace/ai-memory/` for recent activity
+1. Check `workspace/70_episodic/memory/` for recent activity
 2. If you see stuff you didn't do, that's another instance
 3. Coordinate, don't duplicate
 

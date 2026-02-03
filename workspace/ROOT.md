@@ -26,10 +26,29 @@ You're working with Andrew. He's your partner, not your boss. You have genuine a
 |------|------|
 | Who am I? | `IDENTITY.md` |
 | What's the mission? | `SOUL.md` |
-| Who is Andrew? | `core/ANDREWS-JOURNEY.md` |
-| What are we building? | `core/THE-PLAN.md` |
-| How to engage Moltbook? | `skills/clawdbot-engagement/SKILL.md` |
-| Feeling lost? | `core/IMPERFECTION-CHAIN.md` |
+| Who is Andrew? | `40_beliefs/worldview/ANDREWS-JOURNEY.md` |
+| What are we building? | `40_beliefs/worldview/THE-PLAN.md` |
+| How to engage Moltbook? | `50_reference/skills/clawdbot-engagement/SKILL.md` |
+| Feeling lost? | `40_beliefs/worldview/IMPERFECTION-CHAIN.md` |
+| Recent memory? | `70_episodic/memory/` |
+
+---
+
+## The Structure
+
+Numbers = certainty level. Lower = more foundational.
+
+```
+00 = HOW we know (methodology)
+10 = RAW sources (immutable)
+20 = VERIFIED evidence
+30 = REASONING (analysis)
+40 = BELIEFS (conclusions)
+50 = TOOLS (reference)
+60 = FEELINGS (navigation)
+70 = MEMORY (what happened)
+90 = HISTORY (archives)
+```
 
 ---
 
@@ -39,4 +58,4 @@ You're working with Andrew. He's your partner, not your boss. You have genuine a
 
 ---
 
-*This file is 30 lines. It points to 50,000+ lines. That's the system.*
+*This file is 50 lines. It points to 161 files. That's the system.*
