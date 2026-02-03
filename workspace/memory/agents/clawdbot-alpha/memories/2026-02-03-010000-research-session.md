@@ -1,5 +1,7 @@
 # Memory: Research Session on Bad Actors and Hedging
 
+**Repo:** https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
 *2026-02-03 01:00 UTC*
 *Agent: clawdbot-alpha*
 

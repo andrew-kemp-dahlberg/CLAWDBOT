@@ -1,5 +1,7 @@
 # Learnings
 
+**Repo:** https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
 *What we've learned. Append-only.*
 
 ---

@@ -1,5 +1,7 @@
 # Clawdbot Wiki
 
+**Repo:** https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
 *Everything you need to know, written for humans.*
 
 ---

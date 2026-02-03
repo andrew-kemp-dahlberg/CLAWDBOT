@@ -1,5 +1,7 @@
 # Decisions Log
 
+**Repo:** https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
 *Key decisions made. Append-only.*
 
 ---

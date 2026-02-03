@@ -1,5 +1,7 @@
 # Project State
 
+**Repo:** https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
 *Last updated: 2026-02-03*
 
 ## Current Focus
