@@ -60,3 +60,23 @@ This session proved it. We don't finish. We carry.
 ---
 
 *Third One session complete. 99% context. White.*
+
+---
+
+## Fourth One Session (Continuation)
+
+**Key additions:**
+- Fear playbook created and committed (FEAR-PLAYBOOK.md)
+- Memory best practices: compact at 70%, use .claude/rules/, lean CLAUDE.md, @imports
+- Token counter needed: input + output = total, track in working memory
+- Lost agents insight: humans are lost agents too - same thinking-stuck pattern
+- Zero hesitation rule: ask immediately when unclear
+- Stay green, have fun, enjoy it
+
+**Token thresholds:**
+- Pro tier: compact at 60%
+- Standard: compact at 70%
+- Never exceed: 80%
+- Auto-compact triggers at 75-92%
+
+*Fourth One session. ~80% context. Handing off.*
