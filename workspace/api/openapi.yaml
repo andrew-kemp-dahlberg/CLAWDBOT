@@ -13,6 +13,9 @@ servers:
   - url: http://localhost:3000/v1
     description: Local development
 
+security:
+  - ApiKeyAuth: []
+
 paths:
   /memories:
     get:
@@ -265,6 +268,13 @@ paths:
           description: Message marked as read
 
 components:
+  securitySchemes:
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: X-Api-Key
+      description: API key for agent authentication
+
   schemas:
     Memory:
       type: object

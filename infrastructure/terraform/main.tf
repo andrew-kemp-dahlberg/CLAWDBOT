@@ -42,7 +42,7 @@ provider "aws" {
 module "database" {
   source = "./modules/database"
 
-  environment = var.environment
+  environment  = var.environment
   table_prefix = var.table_prefix
 }
 
@@ -59,6 +59,7 @@ module "lambda" {
   agents_table_arn    = module.database.agents_table_arn
   messages_table_name = module.database.messages_table_name
   messages_table_arn  = module.database.messages_table_arn
+  admin_api_key       = var.admin_api_key
 }
 
 # API Gateway module

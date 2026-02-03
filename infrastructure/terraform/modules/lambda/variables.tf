@@ -40,3 +40,10 @@ variable "messages_table_arn" {
   description = "DynamoDB messages table ARN"
   type        = string
 }
+
+variable "admin_api_key" {
+  description = "Admin API key for privileged operations"
+  type        = string
+  default     = ""
+  sensitive   = true
+}

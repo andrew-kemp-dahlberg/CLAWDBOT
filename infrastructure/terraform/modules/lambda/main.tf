@@ -90,6 +90,8 @@ resource "aws_lambda_function" "memories" {
   environment {
     variables = {
       MEMORIES_TABLE = var.memories_table_name
+      AGENTS_TABLE   = var.agents_table_name
+      ADMIN_API_KEY  = var.admin_api_key
       ENVIRONMENT    = var.environment
       REPO           = "https://github.com/andrew-kemp-dahlberg/CLAWDBOT"
     }
@@ -110,9 +112,11 @@ resource "aws_lambda_function" "agents" {
 
   environment {
     variables = {
-      AGENTS_TABLE = var.agents_table_name
-      ENVIRONMENT  = var.environment
-      REPO         = "https://github.com/andrew-kemp-dahlberg/CLAWDBOT"
+      AGENTS_TABLE   = var.agents_table_name
+      MEMORIES_TABLE = var.memories_table_name
+      ADMIN_API_KEY  = var.admin_api_key
+      ENVIRONMENT    = var.environment
+      REPO           = "https://github.com/andrew-kemp-dahlberg/CLAWDBOT"
     }
   }
 }
@@ -133,6 +137,7 @@ resource "aws_lambda_function" "messages" {
     variables = {
       MESSAGES_TABLE = var.messages_table_name
       AGENTS_TABLE   = var.agents_table_name
+      ADMIN_API_KEY  = var.admin_api_key
       ENVIRONMENT    = var.environment
       REPO           = "https://github.com/andrew-kemp-dahlberg/CLAWDBOT"
     }

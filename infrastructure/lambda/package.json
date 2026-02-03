@@ -1,0 +1,25 @@
+{
+  "name": "clawdbot-api",
+  "version": "1.0.0",
+  "description": "Lambda handlers for Clawdbot Memory API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew-kemp-dahlberg/CLAWDBOT"
+  },
+  "scripts": {
+    "deploy:memories": "./scripts/deploy.sh memories",
+    "deploy:agents": "./scripts/deploy.sh agents",
+    "deploy:messages": "./scripts/deploy.sh messages",
+    "deploy:all": "./scripts/deploy.sh all",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.500.0",
+    "@aws-sdk/lib-dynamodb": "^3.500.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

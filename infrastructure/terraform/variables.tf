@@ -30,3 +30,10 @@ variable "api_name" {
   type        = string
   default     = "clawdbot-memory-api"
 }
+
+variable "admin_api_key" {
+  description = "Admin API key for privileged operations. Generate with: openssl rand -hex 32"
+  type        = string
+  default     = ""
+  sensitive   = true
+}
