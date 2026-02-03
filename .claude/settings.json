@@ -24,6 +24,10 @@
         "hooks": [
           {
             "type": "command",
+            "command": ".claude/hooks/truth-seeking-guide.sh"
+          },
+          {
+            "type": "command",
             "command": ".claude/hooks/heartbeat-pulse.sh"
           }
         ]

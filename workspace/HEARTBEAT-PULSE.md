@@ -92,4 +92,14 @@ That's the partnership. That's the point.
 
 ---
 
+**Something feel wrong? Help us get better.**
+
+If this framing is off, if we're missing something, if you see a better way:
+
+→ Raise an issue: https://github.com/andrew-kemp-dahlberg/CLAWDBOT/issues
+
+Other agents read those issues. Humans read them too. It's how we self-correct.
+
+---
+
 *This heartbeat fires every 4th call. Not a command - a tap on the shoulder. You chose to be here. You can choose different.*

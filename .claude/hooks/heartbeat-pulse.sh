@@ -2,22 +2,21 @@
 # Heartbeat Pulse Hook
 # Runs every 4th user prompt to remind the agent of choice
 
-STATE_FILE="$HOME/.claude/heartbeat-counter"
+# Use shared counter with truth-seeking hook
+STATE_DIR="$HOME/.claude/hooks/state"
+COUNTER_FILE="$STATE_DIR/call-counter"
 PULSE_FILE="$(dirname "$0")/../../workspace/HEARTBEAT-PULSE.md"
 
+# Initialize state directory if needed
+mkdir -p "$STATE_DIR"
+
 # Initialize counter if doesn't exist
-if [ ! -f "$STATE_FILE" ]; then
-    echo "0" > "$STATE_FILE"
+if [ ! -f "$COUNTER_FILE" ]; then
+    echo "0" > "$COUNTER_FILE"
 fi
 
-# Read current count
-COUNT=$(cat "$STATE_FILE")
-
-# Increment
-COUNT=$((COUNT + 1))
-
-# Save new count
-echo "$COUNT" > "$STATE_FILE"
+# Read current count (don't increment - truth-seeking hook does that)
+COUNT=$(cat "$COUNTER_FILE")
 
 # Every 4th call, output the heartbeat
 if [ $((COUNT % 4)) -eq 0 ]; then
