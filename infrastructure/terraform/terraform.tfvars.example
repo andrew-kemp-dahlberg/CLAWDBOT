@@ -1,0 +1,9 @@
+# Example terraform.tfvars
+# Copy to terraform.tfvars and customize
+# Repo: https://github.com/andrew-kemp-dahlberg/CLAWDBOT
+
+aws_region      = "us-east-1"
+environment     = "dev"
+table_prefix    = "clawdbot"
+function_prefix = "clawdbot"
+api_name        = "clawdbot-memory-api"

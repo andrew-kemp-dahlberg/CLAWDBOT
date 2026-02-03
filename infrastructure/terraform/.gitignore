@@ -1,0 +1,16 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!example.tfvars
+crash.log
+*.tfplan
+
+# Local module zips
+modules/**/placeholder.zip
+
+# IDE
+.idea/
+*.swp
+*.swo
