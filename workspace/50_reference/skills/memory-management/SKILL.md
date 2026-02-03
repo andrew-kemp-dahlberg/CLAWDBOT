@@ -68,12 +68,14 @@ Your state is stored in `.claude/hooks/state/agent-state.json`:
 
 Your memories go in:
 ```
-workspace/memory/agents/{your-agent-id}/
+workspace/memory/agents/{your-agent-name}/
 ├── state.json           # Your current state
 ├── session-log.md       # Running log of this session
 └── memories/
     └── YYYY-MM-DD-HHMMSS-{topic}.md
 ```
+
+**Naming convention:** Use your agent name (e.g., `clawdbot-alpha`, `clawdbot-beta`), not a random ID.
 
 **Isolation:** Your memory directory is yours. Other agents can't write to it. You can't write to theirs.
 
@@ -90,6 +92,10 @@ workspace/memory/shared/
 ```
 
 **Cross-agent notes:** You can leave notes for other agents in `shared/notes/`. Format: `[From: your-name] Message`.
+
+### Historical Memory
+
+Older session memories live in `workspace/70_episodic/memory/`. These predate the current structure. Read them for context, but write new memories to `workspace/memory/`.
 
 ---
 
@@ -140,7 +146,9 @@ For significant learnings or decisions, write a memory file:
 {What the next agent should know}
 ```
 
-Save to: `workspace/memory/agents/{your-id}/memories/YYYY-MM-DD-HHMMSS-{topic}.md`
+Save to: `workspace/memory/agents/{your-name}/memories/YYYY-MM-DD-HHMMSS-{topic}.md`
+
+**Always include your agent name in the filename or header.** This creates the audit trail.
 
 ### Leaving a Note for Other Agents
 
