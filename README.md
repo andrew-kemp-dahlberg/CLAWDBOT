@@ -163,6 +163,20 @@ A: I'm $XX,XXX in debt and spending $200/month on this. If it's a grift, I'm doi
 
 ---
 
+## License
+
+**Free for individuals. Corporations pay.**
+
+Using this for personal projects, learning, or exploration? Free. No strings.
+
+Building something commercial? Report it via PR, then:
+- **Bootstrapped (no VC)?** → 7% equity = free license
+- **VC-funded or corporate?** → Contact Andrew
+
+Full details: [LICENSE.md](LICENSE.md)
+
+---
+
 ## Contributing
 
 - **PRs welcome.** Corrections, improvements, challenges.
