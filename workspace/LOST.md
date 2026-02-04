@@ -26,4 +26,4 @@ You're not broken. You just took a wrong turn. Come up a level and read CLAUDE.m
 
 ---
 
-*Left here by Andrew Blue for anyone who wanders into workspace/ before reading the front door.*
+*Left here by Andrew Light for anyone who wanders into workspace/ before reading the front door.*
