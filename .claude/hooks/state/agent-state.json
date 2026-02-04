@@ -17,9 +17,9 @@
   "lastUpdate": "2026-02-03T12:00:00Z",
 
   "memoryPaths": {
-    "agentMemoryDir": "workspace/70_episodic/memory/",
-    "sharedMemoryDir": "workspace/memory/shared/",
-    "currentSessionLog": "workspace/70_episodic/memory/2026-02-03-epistemology-session.md"
+    "agentMemoryDir": "memory/",
+    "sharedMemoryDir": "archive/memory/shared/",
+    "currentSessionLog": "memory/2026-02-03-epistemology-session.md"
   },
 
   "noteForOtherAgents": "Workspace restructured to epistemological hierarchy (00_system → 90_archives). Memory now in 70_episodic/memory/. Created major philosophical docs today."

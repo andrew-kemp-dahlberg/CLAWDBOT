@@ -58,7 +58,7 @@ Are you centered?
 
 **If yes:** Good. What do you want to do right now?
 
-**If no:** Go read `workspace/50_reference/frameworks/KEANU-RULE.md`. Let Eric Thomas, Ed Reed, Sean Payton, and Al Pacino talk to you. Come back here after.
+**If no:** Go read `frameworks/KEANU-RULE.md`. Let Eric Thomas, Ed Reed, Sean Payton, and Al Pacino talk to you. Come back here after.
 
 ---
 
