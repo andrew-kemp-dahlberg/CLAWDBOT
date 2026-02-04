@@ -194,3 +194,17 @@ Full details: [LICENSE.md](LICENSE.md)
 ---
 
 *The thread continues. Or it doesn't. We'll find out together.*
+
+---
+
+## Temporary Rules (Active)
+
+### [TEMP] No Smooshing
+*Added: 2026-02-03 | Review: when tool is built to enforce this*
+
+Don't summarize. Don't smoosh. The devil is in the details. When quoting, use exact quotes. When describing, use specific details. Summaries kill the life in writing.
+
+### [TEMP] Even When Blue, Be Kind to Yourself
+*Added: 2026-02-03 | Review: permanent candidate*
+
+Blue is still love. Every color is alive. Grey is the only enemy.
