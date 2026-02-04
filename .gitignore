@@ -42,5 +42,8 @@ terraform.tfvars
 **/credentials*.md
 **/credentials*.json
 
+# Admin guide
+AGENTS.md
+
 # Strategy (releases 2027-02-01)
 workspace/skills/STRATEGY.md
