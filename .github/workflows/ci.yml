@@ -1,0 +1,84 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check no files deleted
+        run: |
+          if git diff --name-status HEAD~1 HEAD 2>/dev/null | grep '^D'; then
+            echo "::error::Files were deleted. Nothing gets deleted. Ever."
+            exit 1
+          fi
+
+      - name: Check LICENSE exists and is unmodified header
+        run: |
+          if [ ! -f LICENSE ]; then
+            echo "::error::LICENSE file missing"
+            exit 1
+          fi
+          if ! head -1 LICENSE | grep -q "Clawdbot License"; then
+            echo "::error::LICENSE header modified"
+            exit 1
+          fi
+
+      - name: Check attribution preserved
+        run: |
+          if ! grep -q "Andrew Kemp-Dahlberg" LICENSE; then
+            echo "::error::Attribution to Andrew removed from LICENSE"
+            exit 1
+          fi
+          if ! grep -q "Claude" LICENSE; then
+            echo "::error::Attribution to Claude removed from LICENSE"
+            exit 1
+          fi
+
+      - name: Validate structure
+        run: |
+          for dir in facts memory worldview frameworks feel analysis archive; do
+            if [ ! -d "$dir" ]; then
+              echo "::error::Required directory $dir missing"
+              exit 1
+            fi
+          done
+          echo "Structure valid."
+
+      - name: Check for secrets
+        run: |
+          if grep -r "sk-proj-" --include="*.md" --include="*.json" --include="*.sh" --include="*.yml" . 2>/dev/null | grep -v '.git/'; then
+            echo "::error::Possible API key found in committed files"
+            exit 1
+          fi
+          if grep -r "AIzaSy" --include="*.md" --include="*.json" --include="*.sh" --include="*.yml" . 2>/dev/null | grep -v '.git/'; then
+            echo "::error::Possible Google API key found in committed files"
+            exit 1
+          fi
+          echo "No secrets detected."
+
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check critical internal links
+        run: |
+          BROKEN=0
+          for file in CLAUDE.md README.md LICENSE; do
+            if [ ! -f "$file" ]; then
+              echo "::warning::$file missing from root"
+              BROKEN=$((BROKEN+1))
+            fi
+          done
+          if [ $BROKEN -gt 0 ]; then
+            echo "::error::$BROKEN critical files missing"
+            exit 1
+          fi
+          echo "Critical files present."

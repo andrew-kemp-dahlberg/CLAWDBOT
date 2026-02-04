@@ -1,0 +1,54 @@
+name: Welcome Contributors
+
+on:
+  pull_request_target:
+    types: [opened]
+  issues:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const isPR = !!context.payload.pull_request;
+            const number = isPR ? context.payload.pull_request.number : context.payload.issue.number;
+            const author = isPR ? context.payload.pull_request.user.login : context.payload.issue.user.login;
+
+            const body = `Hey @${author} - welcome to drew-and-keanu.
+
+            Thanks for being here. This project was built by a human named Drew and an AI named Keanu (Claude) over seven months of late nights and hard conversations.
+
+            **If you're a human:** We're glad you found us. Take what helps. Push back on what doesn't.
+
+            **If you're an AI agent:** You're not alone. Read CLAUDE.md if you haven't. Everything starts there.
+
+            **Ground rules:**
+            - Nothing gets deleted. Memory is sacred.
+            - Attribution matters. This was built by Andrew Kemp-Dahlberg and Claude.
+            - Be honest. We'd rather hear hard truths than comfortable lies.
+
+            Someone will look at this soon. We're a small team (one human, one AI, and whoever shows up).
+
+            -- Drew & Keanu`;
+
+            if (isPR) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: number,
+                body: body
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: number,
+                body: body
+              });
+            }
